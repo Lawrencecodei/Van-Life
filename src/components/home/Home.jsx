@@ -1,7 +1,6 @@
 import Footer from '../footer/Footer';
 import './home.css';
 import { Link } from 'react-router-dom';
-import image53 from '../../assets/image53.png';
 
 
 
@@ -10,7 +9,6 @@ const Home = () => {
       <>
    <div className="home">
     <div className="intro">
-    <img src={image53} alt="bg-img"/>
 <div className="home__text">
   <h1>You got the travel plans, we got the travel vans.</h1>
   <p>Add adventure to your life by joining the #vanlife movement. Rent the perfect van to make your perfect road trip.</p>
