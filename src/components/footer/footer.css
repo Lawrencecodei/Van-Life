@@ -1,0 +1,22 @@
+.home__copyright {
+    display: flex;
+    padding: 0;
+    justify-content: center;
+    align-items: center;
+    flex-shrink: 0;
+    background: #252525;
+  }
+
+  
+  .home__copyright p {
+    color: #AAA;
+    text-align: center;
+    font-family: 'Manrope'sans-serif;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 22.923px;
+    
+
+  }
+

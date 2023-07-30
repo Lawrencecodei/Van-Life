@@ -1,0 +1,50 @@
+* {
+  box-sizing: border-box;
+}
+
+html, body {
+  margin: 0;
+  padding: 0;
+ 
+}
+
+a {
+  text-decoration: none !important;
+  color: unset;
+}
+
+.intro {
+  background: linear-gradient(0deg, rgba(0, 0, 0, 0.46) 0%, rgba(0, 0, 0, 0.46) 100%), url(./img/image53.png),  lightgray 0px -65.191px / 100% 178.109%  no-repeat;
+
+  height: 800px;
+  width: 100%;
+  margin-bottom: 2rem;
+  display: flex;
+  flex-direction: column;
+  padding: 0;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+}
+
+
+
+/* @media screen and (min-width:1050px) {
+  .intro {
+    display: flex;
+    padding: 100px;
+    margin: 0;
+   
+  }
+  
+}
+
+@media screen and (max-width:650px) {
+  .home{
+    display: flex;
+    padding: 0;
+    margin: 0;
+    width: 100%;
+  }
+} */
